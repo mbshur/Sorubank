@@ -1,2 +1,7 @@
-9C-Sağlık bilgisi 1.Sınavı Tarih:01.01.1990 Saat:00:20:60 Soru:25 adet Süre:25 dk
-10A-biyoloji 1.Sınavı Tarih:01.01.1990 Saat:00:20:60 Soru:40 adet Süre:40 dk
+9C Saglik/1 01.01.1990 00:20:60 Soru:25adet Süre:25dk Sağlık Bilgisi 
+10A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
+
+
+
+format:
+9C dersklasöru/sınavklasörü tarih saaat Soru:XXXadet Süre:XXdk Biyoloji sindirim sistemi vb.(Ders adı konu vb açıklama)
