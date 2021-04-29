@@ -1,2 +1,2 @@
-9C-Sağlık bilgisi 1. Sınavı Tarih:01.01.1990 Saat:00:20:60 Başlamadı.
-10A-biyoloji 1. Sınavı Tarih:01.01.1990 Saat:00:20:60 Başlamadı.
+9C-Sağlık bilgisi 1.Sınavı Tarih:01.01.1990 Saat:00:20:60 Soru:25 adet Süre:25 dk
+10A-biyoloji 1.Sınavı Tarih:01.01.1990 Saat:00:20:60 Soru:40 adet Süre:40 dk
