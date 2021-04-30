@@ -1,9 +1,9 @@
->9C Saglik/1 t:01.01.1990 s:00:20:60 soru:25adet süre:25dk inf: Sağlık Bilgisi
->10A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
->9A Saglik/1 01.01.1990 00:20:60 Soru:25adet Süre:25dk inf: Sağlık Bilgisi
->11A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
->12A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
->10B Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
+>9C Saglik/1 zmn:01.01.1990_00:20:60 Soru:25adet Süre:25dk inf: Sağlık Bilgisi
+>10A Biyoloji/1 zmn:01.01.1990_00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
+>9A Saglik/1 zmn:01.01.1990_00:20:60 Soru:25adet Süre:25dk inf: Sağlık Bilgisi
+>11A Biyoloji/1 zmn:01.01.1990_00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
+>12A Biyoloji/1 zmn:01.01.1990_00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
+>10B Biyoloji/1 zmn:01.01.1990_00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
 <
 # sınavlar yenilenmiştir.
 # format:
