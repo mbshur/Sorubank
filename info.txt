@@ -2,8 +2,8 @@
 >10A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
 >9A Saglik/1 01.01.1990 00:20:60 Soru:25adet Süre:25dk Sağlık Bilgisi
 >11A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
->11A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
->11A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
+>12A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
+>10B Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
 <
 # sınavlar yenilenmiştir.
 # format:
