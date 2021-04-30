@@ -4,7 +4,6 @@
 >11A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
 >12A Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
 >10B Biyoloji/1 01.01.1990 00:20:60 Soru:40adet Süre:40dk Biyoloji
-<
-# sınavlar yenilenmiştir.
+<# sınavlar yenilenmiştir.
 # format:
 9C dersklasöru/sınavklasörü tarih saaat Soru:XXXadet Süre:XXdk Biyoloji sindirim sistemi vb.(Ders adı konu vb açıklama)
