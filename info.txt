@@ -6,5 +6,5 @@
 >10B Biyoloji/1 zmn:01.01.1990_00:20:60 Soru:40adet Süre:40dk inf: Biyoloji
 <
 # sınavlar yenilenmiştir.
-# format::
+# format:
 9C dersklasöru/sınavklasörü tarih saaat Soru:XXXadet Süre:XXdk Biyoloji sindirim sistemi vb.(Ders adı konu vb açıklama)
