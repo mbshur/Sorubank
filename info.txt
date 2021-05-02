@@ -1,6 +1,6 @@
->9C Sağlık/1 zmn:01.05.2021_20:30:00 Soru:25adet Süre:34dk inf: Sağlık Bilgisi
+>9C Sağlık/1 zmn:02.05.2021_08:50:00 Soru:25adet Süre:34dk inf: Sağlık Bilgisi
 >10A Biyoloji/1 zmn:01.01.2020_00:20:56 Soru:40adet Süre:40dk inf: Biyoloji
->9A Sağlık/2 zmn:01.04.2020_23:20:50 Soru:25adet Süre:35dk inf: Sağlık Bilgisi
+>9A Sağlık/2 zmn:02.05.2021_09:00:00 Soru:25adet Süre:35dk inf: Sağlık Bilgisi
 >11A Biyoloji/1 zmn:01.01.2020_00:20:50 Soru:40adet Süre:40dk inf: Biyoloji
 >12A Biyoloji/1 zmn:01.01.2020_00:20:50 Soru:40adet Süre:40dk inf: Biyoloji
 >10B Biyoloji/1 zmn:01.01.2020_00:20:50 Soru:40adet Süre:40dk inf: Biyoloji
