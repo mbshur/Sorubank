@@ -12,6 +12,6 @@ aaaa
 fff
 ggggg
 n  cc
-xx c
+xx cd
 x
 .
