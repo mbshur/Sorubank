@@ -1,6 +1,6 @@
 Sağlık/1
 Cevap Anahtarı
->
+<
 s1-D.
 s2-C.
 s3-D.
