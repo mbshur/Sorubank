@@ -15,5 +15,5 @@ n  cc
 xx cd
 x
 daha 
-ne kadar d
+ne kadar d 
 .
