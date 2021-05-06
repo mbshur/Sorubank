@@ -1,10 +1,14 @@
->9A Sağlık/1 zmn:04.05.2021_17:00:00 Soru:25adet Süre:120dk inf:1.inf Sağlık Bilgisi
->9B Sağlık/1 zmn:04.05.2021_17:00:00 Soru:25adet Süre:120dk inf:1.inf Sağlık Bilgisi
->9C Sağlık/1 zmn:04.05.2021_17:00:00 Soru:25adet Süre:120dk inf:1.inf Sağlık Bilgisi
->9D Sağlık/1 zmn:04.05.2021_17:00:00 Soru:25adet Süre:120dk inf:1.inf Sağlık Bilgisi
->9C Biyoloji/9/1 zmn:04.05.2021_17:00:00 Soru:25adet Süre:40dk inf:1.inf Biyoloji
+>9A Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
+>9B Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
+>9C Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
+>9D Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
+>9A Biyoloji/9/1 zmn:10.05.2021_17:00:00 Soru:25adet Süre:30dk inf:1.inf Biyoloji
+>9B Biyoloji/9/1 zmn:10.05.2021_17:00:00 Soru:25adet Süre:30dk inf:1.inf Biyoloji
+>9C Biyoloji/9/1 zmn:10.05.2021_17:00:00 Soru:25adet Süre:30dk inf:1.inf Biyoloji
+>9D Biyoloji/9/1 zmn:10.05.2021_17:00:00 Soru:25adet Süre:30dk inf:1.inf Biyoloji
+
 <
-# sınavlar yenilenmiştir.
+# Sorubank programı test edilecektir. sınav Tarihleri yenilenmiştir.
 # Sağlık sınavı 11.05.2021 saat 17:00:00
 
 .
