@@ -1,4 +1,4 @@
->9C Sağlık/1 zmn:10.05.2021_14:20:00 Soru:25adet Süre:55dk inf:1.inf Sağlık Bilgisi
+>9C Sağlık/1 zmn:16.05.2021_14:20:00 Soru:25adet Süre:120dk inf:1.inf Sağlık Bilgisi
 >9A Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
 >9B Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
 >9C Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
