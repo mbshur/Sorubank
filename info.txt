@@ -11,7 +11,6 @@
 <
 # Sorubank programı test edilecektir. sınav Tarihleri yenilenmiştir.
 # Sağlık sınavı 11.05.2021 saat 17:00:00
-# bilgi sonu
+# bilgi sonu 
 #
-  
-.
+
