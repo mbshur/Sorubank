@@ -14,5 +14,4 @@
 # bilgi sonu
 # eof
 # .
-# .
-# .
+
