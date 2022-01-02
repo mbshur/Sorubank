@@ -3,10 +3,10 @@
 >9B Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
 >9C Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
 >9D Sağlık/1 zmn:09.05.2021_17:00:00 Soru:25adet Süre:25dk inf:1.inf Sağlık Bilgisi
->9A Biyoloji/9/1 zmn:30.12.2021_16:00:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
->9B Biyoloji/9/1 zmn:30.12.2021_16:00:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
->9C Biyoloji/9/1 zmn:30.12.2021_16:00:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
->9D Biyoloji/9/1 zmn:30.12.2021_16:00:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
+>9A Biyoloji/9/1 zmn:02.01.2022_12:50:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
+>9B Biyoloji/9/1 zmn:02.01.2022_12:50:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
+>9C Biyoloji/9/1 zmn:02.01.2022_12:50:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
+>9D Biyoloji/9/1 zmn:02.01.2022_12:50:00 Soru:25adet Süre:130dk inf:1.inf Biyoloji
 
 <
 # Sorubank programı test edilecektir. sınav Tarihleri yenilenmiştir.
