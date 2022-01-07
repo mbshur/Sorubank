@@ -11,6 +11,6 @@
 <
 # Sorubank programı test edilecektir. sınav Tarihleri yenilenmiştir.
 # Biyoloji sınavı 08.01.2022 saat 19:00:00
-# ....... 
+# ......... 
 
   
