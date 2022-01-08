@@ -1,16 +1,20 @@
 >9A Biyoloji/9/1 zmn:08.01.2022_19:00:00 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->9B Biyoloji/9/1 zmn:08.01.2022_19:00:10 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->9C Biyoloji/9/1 zmn:08.01.2022_19:00:20 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->9A Sağlık/1 zmn:17.01.2022_17:00:00 Soru:25adet Süre:240dk inf:1.inf Sağlık
->10A Biyoloji/9/1 zmn:08.01.2022_19:00:30 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->10B Biyoloji/9/1 zmn:08.01.2022_19:00:40 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->10C Biyoloji/9/1 zmn:08.01.2022_19:00:50 Soru:25adet Süre:40dk inf:1.inf Biyoloji
->10D Biyoloji/9/1 zmn:08.01.2022_19:01:00 Soru:25adet Süre:40dk inf:1.inf Biyoloji
+>9B Biyoloji/9/1 zmn:08.01.2022_19:00:30 Soru:25adet Süre:40dk inf:1.inf Biyoloji
+>9C Biyoloji/9/1 zmn:08.01.2022_19:00:59 Soru:25adet Süre:40dk inf:1.inf Biyoloji
+>9A Sağlık/1 zmn:09.01.2022_19:00:00 Soru:25adet Süre:60dk inf:1.inf Sağlık
+>9B Sağlık/1 zmn:09.01.2022_19:01:00 Soru:25adet Süre:60dk inf:1.inf Sağlık
+>9C Sağlık/1 zmn:09.01.2022_19:02:00 Soru:25adet Süre:60dk inf:1.inf Sağlık
+>10A Biyoloji/10/1 zmn:08.01.2022_20:00:00 Soru:25adet Süre:50dk inf:1.inf Biyoloji
+>10B Biyoloji/10/1 zmn:08.01.2022_20:00:20 Soru:25adet Süre:50dk inf:1.inf Biyoloji
+>10C Biyoloji/10/1 zmn:08.01.2022_20:00:40 Soru:25adet Süre:50dk inf:1.inf Biyoloji
+>10D Biyoloji/10/1 zmn:08.01.2022_20:01:00 Soru:25adet Süre:50dk inf:1.inf Biyoloji
 
 
 <
 # Sorubank programı test edilecektir. sınav Tarihleri yenilenmiştir.
-# Biyoloji sınavı 08.01.2022 saat 19:00:00
+# 9 Biyoloji sınavı 08.01.2022 saat 19:00:00 süre 40 dk.
+# 9 Sağlık sınavı 09.01.2022 saat 19:00:00 süre 60 dk.
+# 10 Biyoloji sınavı 08.01.2022 saat 20:00:00 50 dk.
 # ......... 
 
   
