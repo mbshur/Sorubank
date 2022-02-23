@@ -1,4 +1,4 @@
-//
-+nations.txt
-//
+1<
+[nations.txt]
+/
 test
