@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 1365602265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48a4a3fee9a01e60b45e3251be40a4ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc117c3073a98cae67a37375ec4c1953
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e88983222e3748441925dbc3e9aeb0ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ac1691131a8c844dafe8b6ace6a172a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a308e2ff4cb7efe47ad98815e61f4db8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a246b0b4acd37945b0818941cb569b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d31ec094ccb5904da052b8d65fb6601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68a9309c67dc86a408af1a926433af55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba1009f1b7a3754a8fedb2903f51a14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 419356cdc47cbcd4086584eb6900816a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 491a5287c6c40864790ec1e73e917e37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7d1a860f81ec0344a44f4d96872cf64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05c4b801d2046f04cbb04833a1da298e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7069d4d4c0475d4e90b6895ad5da932, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09d653e053d2d354bab58fa7ccb08e30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29014cd42b6d273408e0ceefd336c0b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86666b51d5db53741b915cea83231440, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Flights/f16/F16-01.prefab
+Dependencies: []
