@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3840093659
+CRC: 2509285723
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: agac
+      Dependencies: {}
+    Info_1:
       Name: ah64d
       Dependencies: {}
