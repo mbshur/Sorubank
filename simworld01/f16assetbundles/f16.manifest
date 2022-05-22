@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1365602265
+CRC: 3714858743
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48a4a3fee9a01e60b45e3251be40a4ed
+    Hash: 922d86805a590894cb6a1b97d59acbd9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dc117c3073a98cae67a37375ec4c1953
+    Hash: 433fe6697853e0ce639e62b4cbdfbde9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,19 +54,15 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 9d31ec094ccb5904da052b8d65fb6601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68a9309c67dc86a408af1a926433af55, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: e88983222e3748441925dbc3e9aeb0ed, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0ac1691131a8c844dafe8b6ace6a172a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a308e2ff4cb7efe47ad98815e61f4db8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1a246b0b4acd37945b0818941cb569b6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 9d31ec094ccb5904da052b8d65fb6601, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 68a9309c67dc86a408af1a926433af55, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3ba1009f1b7a3754a8fedb2903f51a14, type: 3}
 - Class: 114
@@ -84,7 +80,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 29014cd42b6d273408e0ceefd336c0b3, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 86666b51d5db53741b915cea83231440, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a246b0b4acd37945b0818941cb569b6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -103,5 +103,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Flights/f16/F16-01.prefab
+- Assets/Flights/f16/SiL-Bundle/F16-01.prefab
 Dependencies: []
