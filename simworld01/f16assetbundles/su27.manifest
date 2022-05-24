@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3439757474
+CRC: 296727363
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8bfa8c972fac162292fe7d566ac0b38f
+    Hash: 171555dbe9ec60e9868874c35ad7580c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 87a756d1f585bddb97a5d09f6526dfde
+    Hash: ff1a36469a10e45a356ac41df1e25199
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -83,8 +83,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 86666b51d5db53741b915cea83231440, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1a246b0b4acd37945b0818941cb569b6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -109,5 +107,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Flights/su27/Su27-01.prefab
+- Assets/Flights/su27/su27-SiL-Bundle/Su27-01.prefab
 Dependencies: []

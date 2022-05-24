@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3714858743
+CRC: 2384804470
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 922d86805a590894cb6a1b97d59acbd9
+    Hash: 0ca57642d19bb45b087be76e854960bf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 433fe6697853e0ce639e62b4cbdfbde9
+    Hash: b920b9b0ccba04caf998d6c8d0dbfae6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -83,8 +83,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 86666b51d5db53741b915cea83231440, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1a246b0b4acd37945b0818941cb569b6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -103,5 +101,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Flights/f16/SiL-Bundle/F16-01.prefab
+- Assets/Flights/f16/f16-SiL-Bundle/F16-01.prefab
 Dependencies: []

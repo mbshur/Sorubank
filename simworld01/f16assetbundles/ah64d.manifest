@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 100742419
+CRC: 1486140460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6bf0cd85b12031bb796ad00e94608434
+    Hash: 1c7a6996cc9ebd92b10091b898e6bcf6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7f6c6aac046e6f5ba3f9ebfe4109e799
+    Hash: 588779f2ea71de059fb1e93e1b9d92dc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -62,8 +62,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 27aa2278877402d41acd13544ee8b61b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: de3b8d8d4d113444ba641aaca957d2d6, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 2df6c4e86d265c14c98f5aa2f0067c6a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
@@ -83,5 +81,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Flights/Helicopters/Ah-64D/Ah64dpref.prefab
+- Assets/Flights/Helicopters/Ah-64D/ah64d-SiL-Bundle/Ah64dpref.prefab
 Dependencies: []
