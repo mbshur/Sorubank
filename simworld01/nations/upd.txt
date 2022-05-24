@@ -1,7 +1,7 @@
 1<
 [nations.txt]
->f16,220522<
->su27,220522<
->ah64d,220522<
+>f16,220524<
+>su27,220524<
+>ah64d,220524<
 >/
 This project is upper level the F16sim project.test
