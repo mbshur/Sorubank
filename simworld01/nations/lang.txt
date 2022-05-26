@@ -1,0 +1,48 @@
+[EN]
+#enPower Off{Power Off}
+#enPower On{Power On}
+#enEngine Off{Engine Off}
+#enEngine On{Engine On}
+#enGear Off{Gear Off}
+#enGear On{Gear On}
+#enEnter{Enter}
+#enExit{Exit}
+#enFlap Off{Flap Off}
+#enFlap On{Flap On}
+#enGear Off{Gear Off}
+#enGear On{Gear On}
+#en1x Map{1x Map}
+#en4x Map{4x Map}
+#en8x Map{8x Map}
+#en16x Map{16x Map}
+#en3x Map{3x Map}
+#en9x Map{9x Map}
+#en21x Map{21x Map}
+#en36x Map{36x Map}
+#enNav_ModeR{Nav_ModeR}
+#enAim_ModeR{Aim_ModeR}
+#enAgm_ModeR{Agm_ModeR}
+#enNav Point -{Nav Point -}
+#enNav Point +{Nav Point +}
+#enLevel{Level }
+#enpoweron{-'Power On' Look at Power On switch 70° Left and down side}
+#enengineoff{-'Engine Off' Look at Engine On switch is near the power on switch}
+#enengineon{-'Engine On' Look at Engine On switch is near the power on switch}
+#enwaitrpm{-Wait Engine Rpm Look at Engine RPM gauge is 30° right Side console}
+#entakeoff{-Take off}
+#engeardown{-'Gear down' Look at Gear switch 30° Left and down side}
+#enlanding{-Landing}
+#enbreakengstop{-Break & Engine stop}
+#enswiaim{-'Switching Radar Mode AIM mode'
+#enlooktardes{-'Look At Target Desginator'}
+#enmovecursor{-'Move cursor in HUD, Move box on Target line use Right-Up UI buttons'}
+#enlocktarg{-'Lock Target, use on Left-Down Corner UI button Later fly to Taget'}
+#enfiremis{-'fly to Taget close & Fire Misile Target, use on Middle Left - Down UI button'}
+#enswiagm{-'Switching Radar Mode AGM mode'}
+#enlowalti{-Fly Low Altitude 30 Feet}
+#enremainsec{- Remaining Second: }
+#enmiscomp{-Mission Completed}
+#enDestcanyontarg{-'Destroy targets in the Canyon. U must hide antiaircrafts'}
+#enmisfail{- Mission Failed. }
+#enkillbygun{-'Find taget & Kill by Gun'}
+#eof
