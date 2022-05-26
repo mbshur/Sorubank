@@ -64,9 +64,9 @@
 #Writingfile{Dosya kaydediliyor : } 
 #LoadingAsset{Loading Asset : } 
 #Checkcompleted{Check completed.}
-#Completed{Completed}
-#Wait{Wait }
-#Scene{Scene }
+#Completed{Tamamlandı}
+#Wait{Bekle }
+#Scene{Sahne }
 #Messages{Messages}
 #Power Off{Gücü Kapat}
 #Power On{Gücü Aç}
