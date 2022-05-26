@@ -60,8 +60,8 @@
 [TR]
 #Downloadingassets{Modeller yükleniyor : }
 #Loading{Yükleniyor...}
-#Loadingfromfile{Load From File: }
-#Writingfile{Writing file : } 
+#Loadingfromfile{Dosyadan okunuyor: }
+#Writingfile{Dosya kaydediliyor : } 
 #LoadingAsset{Loading Asset : } 
 #Checkcompleted{Check completed.}
 #Completed{Completed}
