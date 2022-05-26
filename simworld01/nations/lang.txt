@@ -114,4 +114,4 @@
 #Destcanyontarg{-'Destroy targets in the Canyon. U must hide antiaircrafts'}
 #misfail{- Mission Failed. }
 #killbygun{-'Find taget & Kill by Gun'}
-#ENfinish
+#TRfinish
