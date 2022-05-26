@@ -59,7 +59,7 @@
 
 [TR]
 #Downloadingassets{Modeller yükleniyor : }
-#Loading{Loading...}
+#Loading{Yükleniyor...}
 #Loadingfromfile{Load From File: }
 #Writingfile{Writing file : } 
 #LoadingAsset{Loading Asset : } 
