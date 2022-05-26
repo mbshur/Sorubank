@@ -13,8 +13,6 @@
 #Power On{Power On}
 #Engine Off{Engine Off}
 #Engine On{Engine On}
-#Gear Off{Gear Off}
-#Gear On{Gear On}
 #Enter{Enter}
 #Exit{Exit}
 #Flap Off{Flap Off}
@@ -58,60 +56,58 @@
 #ENfinish
 
 [TR]
-#Downloadingassets{Modeller yükleniyor : }
+#Downloadingassets{Modeller indiriliyor : }
 #Loading{Yükleniyor...}
 #Loadingfromfile{Dosyadan okunuyor: }
 #Writingfile{Dosya kaydediliyor : } 
-#LoadingAsset{Loading Asset : } 
-#Checkcompleted{Check completed.}
+#LoadingAsset{Modeller yükleniyor : } 
+#Checkcompleted{Kontrol tamamlandı.}
 #Completed{Tamamlandı}
 #Wait{Bekle }
 #Scene{Sahne }
-#Messages{Messages}
+#Messages{Mesajlar}
 #Power Off{Gücü Kapat}
 #Power On{Gücü Aç}
-#Engine Off{Engine Off}
-#Engine On{Engine On}
-#Gear Off{Teker yukarı}
-#Gear On{Teker aşağı}
+#Engine Off{Motor Durdur}
+#Engine On{Motor çalıştır}
 #Enter{Giriş}
 #Exit{Çıkış}
-#Flap Off{Flap Off}
-#Flap On{Flap On}
-#Gear Off{Gear Off}
-#Gear On{Gear On}
-#1x Map{1x Map}
-#4x Map{4x Map}
-#8x Map{8x Map}
-#16x Map{16x Map}
-#3x Map{3x Map}
-#9x Map{9x Map}
-#21x Map{21x Map}
-#36x Map{36x Map}
-#Nav_ModeR{Nav_ModeR}
-#Aim_ModeR{Aim_ModeR}
-#Agm_ModeR{Agm_ModeR}
-#Nav Point -{Nav Point -}
-#Nav Point +{Nav Point +}
-#Level{Level }
-#poweron{-'Power On' Look at Power On switch 70° Left and down side}
-#engineoff{-'Engine Off' Look at Engine On switch is near the power on switch}
-#engineon{-'Engine On' Look at Engine On switch is near the power on switch}
-#waitrpm{-Wait Engine Rpm Look at Engine RPM gauge is 30° right Side console}
-#takeoff{-Take off}
-#geardown{-'Gear down' Look at Gear switch 30° Left and down side}
-#landing{-Landing}
-#breakengstop{-Break & Engine stop}
-#swiaim{-'Switching Radar Mode AIM mode'
-#looktardes{-'Look At Target Desginator'}
-#movecursor{-'Move cursor in HUD, Move box on Target line use Right-Up UI buttons'}
-#locktarg{-'Lock Target, use on Left-Down Corner UI button Later fly to Taget'}
-#firemis{-'fly to Taget close & Fire Misile Target, use on Middle Left - Down UI button'}
-#swiagm{-'Switching Radar Mode AGM mode'}
-#lowalti{-Fly Low Altitude 30 Feet}
-#remainsec{- Remaining Second: }
-#miscomp{-Mission Completed}
-#Destcanyontarg{-'Destroy targets in the Canyon. U must hide antiaircrafts'}
-#misfail{- Mission Failed. }
-#killbygun{-'Find taget & Kill by Gun'}
+#Flap Off{Flap kapat}
+#Flap On{Flap aç}
+#Gear Off{Teker yukarı}
+#Gear On{Teker aşağı}
+#1x Map{1x Büyüt}
+#4x Map{4x Büyüt}
+#8x Map{8x Büyüt}
+#16x Map{16x Büyüt}
+#3x Map{3x Büyüt}
+#9x Map{9x Büyüt}
+#21x Map{21x Büyüt}
+#36x Map{36x Büyüt}
+#Nav_ModeR{Navigasyon modu}
+#Aim_ModeR{Hava hedefi modu}
+#Agm_ModeR{Yer hedefi modu}
+#Nav Point -{Nav noktası -}
+#Nav Point +{Nav noktası +}
+#Level{Seviye }
+#poweron{-'Gücü aç' Güç düğmesine bak 70° sol aşağıda}
+#engineoff{-'Motor kapat' Motor aç/kapa düğmesine bak. 'Gücü aç' düğmesinin yanında}
+#engineon{-'Motor aç' Motor aç/kapa düğmesine bak, 'Gücü aç' düğmesinin yanında}
+#waitrpm{-Bekle. Motor devri artsın. Devir sayacı 30° sağda.}
+#takeoff{-Havalan}
+#geardown{-'Teker yukarı' 30° sol aşağıda}
+#landing{-İniş yap}
+#breakengstop{-Frenle & Motoru durdur}
+#swiaim{-'Radar modunu Hava hedefi moduna getir.'
+#looktardes{-'Hedef işaretleme ye bak'}
+#movecursor{-'Hedefi, HUD içindeki dikdörtgeni ok tuşları ile hareket ettirerek çakıştır.'}
+#locktarg{-'Lock Target düğmesine bas, kilitlen ve hedefe doğru uç.'}
+#firemis{-'Hedefe yaklaş ve Fire Misile Target, aktifleşince bas.'}
+#swiagm{-'Radar Modunu yer hedefe ayarla'}
+#lowalti{-Alçak uçuş yap 30 Feet veya altında uç.}
+#remainsec{- Kalan süre: }
+#miscomp{-Görev Tamamlandı}
+#Destcanyontarg{-'Kanyon içindeki hedefleri vur. Uçaksavarlara yakalanma'}
+#misfail{- Görev başarısız oldu. }
+#killbygun{-'Hedefi bul ve mermi yağdır :)'}
 #TRfinish
