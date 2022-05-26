@@ -68,8 +68,8 @@
 #Wait{Wait }
 #Scene{Scene }
 #Messages{Messages}
-#Power Off{Power Off}
-#Power On{Power On}
+#Power Off{Gücü Kapat}
+#Power On{Gücü Aç}
 #Engine Off{Engine Off}
 #Engine On{Engine On}
 #Gear Off{Gear Off}
