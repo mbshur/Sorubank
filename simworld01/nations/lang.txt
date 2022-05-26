@@ -74,8 +74,8 @@
 #Engine On{Engine On}
 #Gear Off{Gear Off}
 #Gear On{Gear On}
-#Enter{Enter}
-#Exit{Exit}
+#Enter{Giriş}
+#Exit{Çıkış}
 #Flap Off{Flap Off}
 #Flap On{Flap On}
 #Gear Off{Gear Off}
