@@ -72,8 +72,8 @@
 #Power On{Gücü Aç}
 #Engine Off{Engine Off}
 #Engine On{Engine On}
-#Gear Off{Gear Off}
-#Gear On{Gear On}
+#Gear Off{Teker yukarı}
+#Gear On{Teker aşağı}
 #Enter{Giriş}
 #Exit{Çıkış}
 #Flap Off{Flap Off}
