@@ -84,11 +84,11 @@
 #9x Map{9x Büyüt}
 #21x Map{21x Büyüt}
 #36x Map{36x Büyüt}
-#Nav_ModeR{Navigasyon modu}
-#Aim_ModeR{Hava hedefi modu}
-#Agm_ModeR{Yer hedefi modu}
-#Nav Point -{Nav noktası -}
-#Nav Point +{Nav noktası +}
+#Nav_ModeR{Navigasyon}
+#Aim_ModeR{Hava hedefi}
+#Agm_ModeR{Yer hedefi}
+#Nav Point -{Nav nokta -}
+#Nav Point +{Nav nokta +}
 #Level{Seviye }
 #poweron{-'Gücü aç' Güç düğmesine bak 70° sol aşağıda}
 #engineoff{-'Motor kapat' Motor aç/kapa düğmesine bak. 'Gücü aç' düğmesinin yanında}
