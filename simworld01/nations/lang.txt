@@ -42,7 +42,7 @@
 #geardown{-'Gear down' Look at Gear switch 30° Left and down side}
 #landing{-Landing}
 #breakengstop{-Break & Engine stop}
-#swiaim{-'Switching Radar Mode AIM mode'
+#swiaim{-'Switching Radar Mode AIM mode'}
 #looktardes{-'Look At Target Desginator'}
 #movecursor{-'Move cursor in HUD, Move box on Target line use Right-Up UI buttons'}
 #locktarg{-'Lock Target, use on Left-Down Corner UI button Later fly to Taget'}
@@ -113,7 +113,7 @@
 #geardown{-'Teker aşağı' düğmesi 30° sol aşağıda}
 #landing{-İniş yap ve Pistin ortasında dur.}
 #breakengstop{-Frenle & Motoru durdur}
-#swiaim{-'Radar modunu Hava hedefi moduna getir.'
+#swiaim{-'Radar modunu Hava hedefi moduna getir.'}
 #looktardes{-'Hedef işaretleme ye bak'}
 #movecursor{-'Hedefi, HUD içindeki dikdörtgeni ok tuşları ile hareket ettirerek çakıştır.'}
 #locktarg{-'Lock Target düğmesine bas, kilitlen ve hedefe doğru uç.'}
