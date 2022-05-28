@@ -96,14 +96,14 @@
 #m23{23 Ah64D-Destroy Truck Convoy}
 #m24{24 Ah64D-Destroy Tank}
 #backbtn{Back}
-#camsoundbtn{Camera\nSound}
+#camsoundbtn{Camera \n Sound}
 #weatherbtn{Weather}
-#mainmenubtn{Main\nMenu}
-#closepanelbtn{Close\nPanel}
+#mainmenubtn{Main \n Menu}
+#closepanelbtn{Close \n Panel}
 #scorebtn{Score}
-#trainingbtn{Training\nfree run}
+#trainingbtn{Training \n free run}
 #campaignbtn{Campaign}
-#reloadscenebtn{Reload\nScenes}
+#reloadscenebtn{Reload \n Scenes}
 #quitbtn{Quit}
 #ENfinish
 
@@ -205,13 +205,13 @@
 #m23{23 Ah64D-Kamyon konvoyunu vur.}
 #m24{24 Ah64D-Tankı vur.}
 #backbtn{Geri}
-#camsoundbtn{Kamera\nSes}
+#camsoundbtn{Kamera \n Ses}
 #weatherbtn{Havadurumu}
-#mainmenubtn{Ana\nMenü}
-#closepanelbtn{Paneli\nkapat}
+#mainmenubtn{Ana \n Menü}
+#closepanelbtn{Paneli \n kapat}
 #scorebtn{Skor}
-#trainingbtn{Öğrenme\nTest et}
+#trainingbtn{Öğrenme \n Test et}
 #campaignbtn{Mücadele}
-#reloadscenebtn{Yeniden\nyükle}
+#reloadscenebtn{Yeniden \n yükle}
 #quitbtn{Çıkış}
 #TRfinish
