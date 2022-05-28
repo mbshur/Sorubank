@@ -4,4 +4,4 @@
 >su27,220524<
 >ah64d,220524<
 >/
-This project is upper level the F16sim project.test
+This project is upper level the F16sim project.test. GB,TR lang.
