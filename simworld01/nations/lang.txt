@@ -105,7 +105,7 @@
 #campaignbtn{Campaign}
 #reloadscenebtn{Reload Scenes}
 #quitbtn{Quit}
-#ENfinish.
+#ENfinish
 
 [TR]
 #Downloadingassets{Modeller indiriliyor : }
@@ -214,4 +214,4 @@
 #campaignbtn{Mücadele}
 #reloadscenebtn{Yeniden yükle}
 #quitbtn{Çıkış}
-#TRfinish.
+#TRfinish
