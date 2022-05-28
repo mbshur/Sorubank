@@ -32,7 +32,7 @@
 #Agm_ModeR{Agm_ModeR}
 #Nav Point -{Nav Point -}
 #Nav Point +{Nav Point +}
-#Level{Level }
+#Levelt{Level }
 #poweron{-'Power On' Look at Power On switch 70° Left and down side}
 #engineoff{-'Engine Off' Look at Engine On switch is near the power on switch}
 #engineon{-'Engine On' Look at Engine On switch is near the power on switch}
@@ -141,7 +141,7 @@
 #Agm_ModeR{Yer hedefi}
 #Nav Point -{Nav nokta -}
 #Nav Point +{Nav nokta +}
-#Level{Seviye }
+#Levelt{Seviye }
 #poweron{-'Gücü aç' Güç düğmesine bak 70° sol aşağıda}
 #engineoff{-'Motor kapat' Motor aç/kapa düğmesine bak. 'Gücü aç' düğmesinin yanında}
 #engineon{-'Motor Çalıştır' Motor aç/kapa düğmesine bak, 'Gücü aç' düğmesinin yanında}
