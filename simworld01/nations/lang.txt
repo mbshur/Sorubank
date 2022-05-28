@@ -38,6 +38,7 @@
 #engineon{-'Engine On' Look at Engine On switch is near the power on switch}
 #waitrpm{-Wait Engine Rpm Look at Engine RPM gauge is 30° right Side console}
 #takeoff{-Take off}
+#gearup{-'Gear up' Look at Gear switch 30° Left and down side}
 #geardown{-'Gear down' Look at Gear switch 30° Left and down side}
 #landing{-Landing}
 #breakengstop{-Break & Engine stop}
@@ -51,8 +52,21 @@
 #remainsec{- Remaining Second: }
 #miscomp{-Mission Completed}
 #Destcanyontarg{-'Destroy targets in the Canyon. U must hide antiaircrafts'}
+#Checkpointscanyon{-'Check points in the Canyon. U must hide antiaircrafts'}
 #misfail{- Mission Failed. }
 #killbygun{-'Find taget & Kill by Gun'}
+#ahengineon{-'Engine On' Look at Engine On switch left 20°,down side.}
+#ahwaitrpm{-Wait Engine Rpm Look at Engine RPM in left MFD.}
+#ahmorealt{-More altitude.}
+#ahmisfailtruck{-Mission failed a Truck Destroyed.}
+#ahescorttruk{-Escort and protect the Truck convoy.}
+#ahseekanddestroyenemytruck{-fly front side Truck convoy way. Seek & destroy enemy truck}
+#ahflyfrontsideconvoy{-fly front side Truck convoy way.}
+#ahdestroytruckconvoy{-Destroy the Truck convoy.}
+#ahseekanddestroytruckconvoy{-fly to Truck convoy. Seek & destroy Trucks.}
+#ahmisfail{-Mission failed.}
+#ahdestroytank{-Destroy the Tank.}
+#ahseekanddestroytank{-Seek & destroy Tank.}
 #ENfinish
 
 [TR]
@@ -92,11 +106,12 @@
 #Level{Seviye }
 #poweron{-'Gücü aç' Güç düğmesine bak 70° sol aşağıda}
 #engineoff{-'Motor kapat' Motor aç/kapa düğmesine bak. 'Gücü aç' düğmesinin yanında}
-#engineon{-'Motor aç' Motor aç/kapa düğmesine bak, 'Gücü aç' düğmesinin yanında}
+#engineon{-'Motor Çalıştır' Motor aç/kapa düğmesine bak, 'Gücü aç' düğmesinin yanında}
 #waitrpm{-Bekle. Motor devri artsın. Devir sayacı 30° sağda.}
 #takeoff{-Havalan}
-#geardown{-'Teker yukarı' 30° sol aşağıda}
-#landing{-İniş yap}
+#gearup{-'Teker yukarı' düğmesi 30° sol aşağıda}
+#geardown{-'Teker aşağı' düğmesi 30° sol aşağıda}
+#landing{-İniş yap ve Pistin ortasında dur.}
 #breakengstop{-Frenle & Motoru durdur}
 #swiaim{-'Radar modunu Hava hedefi moduna getir.'
 #looktardes{-'Hedef işaretleme ye bak'}
@@ -108,6 +123,19 @@
 #remainsec{- Kalan süre: }
 #miscomp{-Görev Tamamlandı}
 #Destcanyontarg{-'Kanyon içindeki hedefleri vur. Uçaksavarlara yakalanma'}
+#Checkpointscanyon{-'Kanyon içinde alçaktan uç. Uçaksavarlara yakalanma'}
 #misfail{- Görev başarısız oldu. }
 #killbygun{-'Hedefi bul ve mermi yağdır :)'}
+#ahengineon{-'Motor çalıştır' Motor aç/kapa düğmesi sol 20° aşağıda.}
+#ahwaitrpm{-Bekle. Motor devri artsın. Devir sayacı Sol monitorde.}
+#ahmorealt{-Daha fazla yüksel.}
+#ahmisfailtruck{-Göver başarısız. Kamyon yok edildi.}
+#ahescorttruk{-Kamyon konvoyunu koru.}
+#ahseekanddestroyenemytruck{-Kamyon konvoyunun önünde uç. Düşman kamyonu bul ve yoket.}
+#ahflyfrontsideconvoy{-Kamyon konvoyunun önünde uç.}
+#ahdestroytruckconvoy{-Kamyon konvoyunu yoket.}
+#ahseekanddestroytruckconvoy{-Kamyon konvoyunu bul ve kamyonları vur.}
+#ahmisfail{-Görev başarısız oldu.}
+#ahdestroytank{-Tankı yoket.}
+#ahseekanddestroytank{-Tankı bul ve yoket.}
 #TRfinish
