@@ -214,4 +214,4 @@
 #campaignbtn{Mücadele}
 #reloadscenebtn{Yeniden \n yükle}
 #quitbtn{Çıkış}
-#TRfinish
+#TRfinish.
