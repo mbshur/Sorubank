@@ -206,7 +206,7 @@
 #m24{24 Ah64D-Tankı vur.}
 #backbtn{Geri}
 #camsoundbtn{Kamera Ses}
-#weatherbtn{Havadurumu}
+#weatherbtn{Hava durumu}
 #mainmenubtn{Ana Menü}
 #closepanelbtn{Paneli kapat}
 #scorebtn{Skor}
