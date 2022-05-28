@@ -67,6 +67,44 @@
 #ahmisfail{-Mission failed.}
 #ahdestroytank{-Destroy the Tank.}
 #ahseekanddestroytank{-Seek & destroy Tank.}
+#cmcap{Campaign / Missiona / Level : }
+#mf16cap{F 16 missions}
+#msu27cap{Su 27 missions}
+#mahcap{Ah64D missions}
+#m1{01 F16-Controllers & Take off}
+#m2{02 F16-Landing & Stop aircraft}
+#m3{03 F16-Lock & Fire Enemy Aircraft}
+#m4{04 F16-Lock & Fire Enemy Tank}
+#m5{05 F16-Fly on sea 1 minute under 30 feet}
+#m6{06 F16-Destroy targets with Gun in canyon}
+#m7{07 F16-Dog fight enemy aircraft}
+#m8{08 F16-Reach Checkpoints in Canyon}
+#m9{09 F16-Fly in the Fog. Landing & stop aircraft}
+#m10{10 F16-Fly in the Night}
+#m11{11 Su27-Controllers Learning & Take off}
+#m12{12 Su27-Landing & Stop aircraft}
+#m13{13 Su27-Lock & Fire Enemy Aircraft}
+#m14{14 Su27-Lock & Fire Enemy Tank}
+#m15{15 Su27-Fly on sea 1 minute under 30 feet}
+#m16{16 Su27-Destroy targets with Gun in canyon
+#m17{17 Su27-Dog fight enemy aircraft}
+#m18{18 Su27-Reach Checkpoints in Canyon}
+#m19{19 Su27-Fly in the Fog. Landing & stop aircraft
+#m20{20 Su27-Fly in the Night}
+#m21{21 Ah64D-Engine Start & Take off}
+#m22{22 Ah64D-Escort Truck Convoy}
+#m23{23 Ah64D-Destroy Truck Convoy}
+#m24{24 Ah64D-Destroy Tank}
+#backbtn{Back}
+#camsoundbtn{Camera\nSound}
+#weatherbtn{Weather}
+#mainmenubtn{Main\nMenu}
+#closepanelbtn{Close\nPanel}
+#scorebtn{Score}
+#trainingbtn{Training\nfree run}
+#campaignbtn{Campaign}
+#reloadscenebtn{Reload\nScenes}
+#quitbtn{Quit}
 #ENfinish
 
 [TR]
@@ -138,4 +176,42 @@
 #ahmisfail{-Görev başarısız oldu.}
 #ahdestroytank{-Tankı yoket.}
 #ahseekanddestroytank{-Tankı bul ve yoket.}
+#cmcap{Mücadele / Görevler / Seviye : }
+#mf16cap{F 16 Görevleri}
+#msu27cap{Su 27 Görevleri}
+#mahcap{Ah64D Görevleri}
+#m1{01 F16-Kontrolleri öğren ve Havalan}
+#m2{02 F16-İniş yap, Uçağı ve motoru durdur.}
+#m3{03 F16-Düşman uçağa kilitle ve Füze ile vur}
+#m4{04 F16-Düşman Tanka kilitle ve füze ile vur}
+#m5{05 F16-30 feet altında 1 dakika uç.}
+#m6{06 F16-Kanyondaki hedefleri vur.}
+#m7{07 F16-Öndeki uçakla it dalaşı yap.}
+#m8{08 F16-Kanyondaki kontrol noktalarından geç.}
+#m9{09 F16-Siste iniş yap, uçağı ve motoru durdur.}
+#m10{10 F16-Gece iniş yap, uçağı durdur.}
+#m11{11 Su27-Kontrolleri öğren ve Havalan}
+#m12{12 Su27-İniş yap, Uçağı ve motoru durdur.}
+#m13{13 Su27-Düşman uçağa kilitle ve Füze ile vur}
+#m14{14 Su27-Düşman Tanka kilitle ve füze ile vur}
+#m15{15 Su27-30 feet altında 1 dakika uç.}
+#m16{16 Su27-Kanyondaki hedefleri vur.}
+#m17{17 Su27-Öndeki uçakla it dalaşı yap.}
+#m18{18 Su27-Kanyondaki kontrol noktalarından geç.}
+#m19{19 Su27-Siste iniş yap, uçağı ve motoru durdur.}
+#m20{20 Su27-Gece iniş yap, uçağı durdur.}
+#m21{21 Ah64D-Motoru çalıştır ve havalan}
+#m22{22 Ah64D-Komyon konvoyuna eşlik et.}
+#m23{23 Ah64D-Kamyon konvoyunu vur.}
+#m24{24 Ah64D-Tankı vur.}
+#backbtn{Geri}
+#camsoundbtn{Kamera\nSes}
+#weatherbtn{Havadurumu}
+#mainmenubtn{Ana\nMenü}
+#closepanelbtn{Paneli\nkapat}
+#scorebtn{Skor}
+#trainingbtn{Öğrenme\nTest et}
+#campaignbtn{Mücadele}
+#reloadscenebtn{Yeniden\nyükle}
+#quitbtn{Çıkış}
 #TRfinish
