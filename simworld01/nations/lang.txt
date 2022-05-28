@@ -96,16 +96,16 @@
 #m23{23 Ah64D-Destroy Truck Convoy}
 #m24{24 Ah64D-Destroy Tank}
 #backbtn{Back}
-#camsoundbtn{Camera \n Sound}
+#camsoundbtn{Camera Sound}
 #weatherbtn{Weather}
-#mainmenubtn{Main \n Menu}
-#closepanelbtn{Close \n Panel}
+#mainmenubtn{Main Menu}
+#closepanelbtn{Close Panel}
 #scorebtn{Score}
-#trainingbtn{Training \n free run}
+#trainingbtn{Training free run}
 #campaignbtn{Campaign}
-#reloadscenebtn{Reload \n Scenes}
+#reloadscenebtn{Reload Scenes}
 #quitbtn{Quit}
-#ENfinish
+#ENfinish.
 
 [TR]
 #Downloadingassets{Modeller indiriliyor : }
@@ -205,13 +205,13 @@
 #m23{23 Ah64D-Kamyon konvoyunu vur.}
 #m24{24 Ah64D-Tankı vur.}
 #backbtn{Geri}
-#camsoundbtn{Kamera \n Ses}
+#camsoundbtn{Kamera Ses}
 #weatherbtn{Havadurumu}
-#mainmenubtn{Ana \n Menü}
-#closepanelbtn{Paneli \n kapat}
+#mainmenubtn{Ana Menü}
+#closepanelbtn{Paneli kapat}
 #scorebtn{Skor}
-#trainingbtn{Öğrenme \n Test et}
+#trainingbtn{Öğrenme Test et}
 #campaignbtn{Mücadele}
-#reloadscenebtn{Yeniden \n yükle}
+#reloadscenebtn{Yeniden yükle}
 #quitbtn{Çıkış}
 #TRfinish.
