@@ -43,7 +43,11 @@
 #landing{-Landing}
 #breakengstop{-Break & Engine stop}
 #swiaim{-'Switching Radar Mode AIM mode'}
-#looktardes{-'Look At Target Desginator'}
+#looktardes{-'Look At Target Desginator' its near Mode Switch}
+#^{^ cursor}
+#<{< cursor}
+#v{v cursor}
+#>{> cursor}
 #movecursor{-'Move cursor in HUD, Move box on Target line use Right-Up UI buttons'}
 #locktarg{-'Lock Target, use on Left-Down Corner UI button Later fly to Taget'}
 #firemis{-'fly to Taget close & Fire Misile Target, use on Middle Left - Down UI button'}
@@ -152,7 +156,11 @@
 #landing{-İniş yap ve Pistin ortasında dur.}
 #breakengstop{-Frenle & Motoru durdur}
 #swiaim{-'Radar modunu Hava hedefi moduna getir.'}
-#looktardes{-'Hedef işaretleme ye bak'}
+#looktardes{-'Hedef işaretleme ye bak.' HUD yakınında}
+#^{^ kursör}
+#<{< kursör}
+#v{v kursör}
+#>{> kursör}
 #movecursor{-'Hedefi, HUD içindeki dikdörtgeni ok tuşları ile hareket ettirerek çakıştır.'}
 #locktarg{-'Lock Target düğmesine bas, kilitlen ve hedefe doğru uç.'}
 #firemis{-'Hedefe yaklaş ve Fire Misile Target, aktifleşince bas.'}
