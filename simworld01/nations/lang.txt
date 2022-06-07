@@ -1,4 +1,6 @@
 [EN]
+#Heightscaler{Heightscaler}
+#WidthscalerText{WidthscalerText}
 #Downloadingassets{Downloading assets: }
 #Loading{Loading...}
 #Loadingfromfile{Load From File: }
@@ -112,6 +114,8 @@
 #ENfinish
 
 [TR]
+#Heightscaler{Ekran boy ayar}
+#WidthscalerText{Ekran en ayar}
 #Downloadingassets{Modeller indiriliyor : }
 #Loading{Yükleniyor...}
 #Loadingfromfile{Dosyadan okunuyor: }
